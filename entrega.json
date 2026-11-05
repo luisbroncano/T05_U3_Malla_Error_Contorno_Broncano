@@ -1,0 +1,10 @@
+{
+  "evaluacion": "T05_U3_Test1",
+  "integrantes": [
+    "Luis Angel Broncano Marcelo"
+  ],
+  "url_repositorio": "https://github.com/luisbroncano/T05_U3_Malla_Error_Contorno_Broncano",
+  "commit": "c90772838040849ba3065af0dd9c5f384f63290d",
+  "estado": "proyecto_publicado_y_commit_verificado",
+  "nota_commit": "El campo commit identifica el commit principal que contiene las fuentes, datos, resultados, pruebas y documentos. Este archivo de trazabilidad se agregó en un commit administrativo posterior para evitar una referencia circular."
+}
