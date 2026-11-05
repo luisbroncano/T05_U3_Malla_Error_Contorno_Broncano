@@ -1,0 +1,4 @@
+Python=3.13.5
+NumPy=2.3.5
+Matplotlib=3.10.8
+Tolerancia_balance_relativo=1.0e-08

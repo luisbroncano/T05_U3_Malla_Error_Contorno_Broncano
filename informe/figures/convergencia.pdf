@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 460 300] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 749 >>
+stream
+q
+0 G 0.8 w
+60 55 m 415 55 l S
+60 55 m 60 238 l S
+60 60 m 415 60 l S
+60 115 m 415 115 l S
+60 170 m 415 170 l S
+60 225 m 415 225 l S
+1 0 0 RG 2 w
+95 159 m 230 126 l 365 93 l S
+0 0 0 RG 1 w
+91 155 8 8 re f
+226 122 8 8 re f
+361 89 8 8 re f
+BT /F1 12 Tf 105 266 Td (Error maximo en puntos medios) Tj ET
+BT /F1 9 Tf 67 38 Td (2) Tj ET
+BT /F1 9 Tf 202 38 Td (4) Tj ET
+BT /F1 9 Tf 337 38 Td (8) Tj ET
+BT /F1 9 Tf 195 18 Td (Numero de elementos n) Tj ET
+BT /F1 9 Tf 3 244 Td (Error [mm]) Tj ET
+BT /F1 8 Tf 64 60 Td (1e-4) Tj ET
+BT /F1 8 Tf 64 115 Td (1e-3) Tj ET
+BT /F1 8 Tf 64 170 Td (1e-2) Tj ET
+BT /F1 8 Tf 64 225 Td (1e-1) Tj ET
+BT /F1 9 Tf 101 170 Td (0.00625) Tj ET
+BT /F1 9 Tf 236 136 Td (0.0015625) Tj ET
+BT /F1 9 Tf 371 100 Td (0.000390625) Tj ET
+Q
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1111
+%%EOF

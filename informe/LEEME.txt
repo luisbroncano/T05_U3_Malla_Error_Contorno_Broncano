@@ -1,0 +1,13 @@
+Informe de Test 1, Unidad 3: malla, error de campo y condiciones de borde.
+
+Se conserva el formato article de la plantilla U1: A4, 11 pt y margenes de 2.4 cm.
+El PDF debe ocupar como maximo dos paginas, incluida bibliografia, figuras y declaracion de IA.
+
+Fuentes del informe: main.tex y referencias.bib. Figuras: figures/contorno.pdf y figures/convergencia.pdf.
+Compilacion local desde esta carpeta:
+  pdflatex main.tex
+  bibtex main
+  pdflatex main.tex
+  pdflatex main.tex
+
+El PDF final se adjunta en la entrega ZIP de Moodle.

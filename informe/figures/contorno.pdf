@@ -1,0 +1,70 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 550 170] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 906 >>
+stream
+q
+0 G 4 w
+45 78 m 475 78 l S
+2 w
+45 48 m 45 108 l S
+45 48 m 28 36 l S
+45 58 m 28 46 l S
+45 68 m 28 56 l S
+45 78 m 28 66 l S
+45 88 m 28 76 l S
+45 98 m 28 86 l S
+45 108 m 28 96 l S
+BT /F1 10 Tf 10 15 Td (Apoyo fijo: u(0)=0) Tj ET
+0.6 w
+100 130 m 122 130 l S
+116 134 m 122 130 l 116 126 l S
+160 130 m 182 130 l S
+176 134 m 182 130 l 176 126 l S
+220 130 m 242 130 l S
+236 134 m 242 130 l 236 126 l S
+280 130 m 302 130 l S
+296 134 m 302 130 l 296 126 l S
+340 130 m 362 130 l S
+356 134 m 362 130 l 356 126 l S
+400 130 m 422 130 l S
+416 134 m 422 130 l 416 126 l S
+BT /F1 11 Tf 215 150 Td (Carga distribuida q = 10 N/mm hacia +x) Tj ET
+1.5 w
+475 78 m 522 78 l S
+514 84 m 522 78 l 514 72 l S
+BT /F1 10 Tf 458 95 Td (P = 20 kN) Tj ET
+1 w
+[5 3] 0 d
+500 48 m 500 108 l S
+[] 0 d
+BT /F1 9 Tf 462 20 Td (Se agrega u(L)=0) Tj ET
+BT /F1 9 Tf 412 5 Td (Caso alternativo) Tj ET
+BT /F1 9 Tf 430 117 Td (Extremo libre) Tj ET
+Q
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1268
+%%EOF

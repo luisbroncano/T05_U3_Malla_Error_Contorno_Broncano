@@ -1,0 +1,7 @@
+Resultados guardados en salidas
+Balance relativo maximo: 9.095e-16
+Residuo libre maximo: 5.821e-11 N
+M2: u(L)=0.300000 mm; R0=-40000 N; error=0.006250 mm
+M4: u(L)=0.300000 mm; R0=-40000 N; error=0.0015625 mm
+M8: u(L)=0.300000 mm; R0=-40000 N; error=0.000390625 mm
+BC_ALTERADO: u(L)=0 mm; R0=-10000 N; RL=-30000 N
