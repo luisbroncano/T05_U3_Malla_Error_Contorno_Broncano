@@ -4,7 +4,7 @@
     "Luis Angel Broncano Marcelo"
   ],
   "url_repositorio": "https://github.com/luisbroncano/T05_U3_Malla_Error_Contorno_Broncano",
-  "commit": "de086af39cb32933ebe127bb5546fe253e99e1b4",
+  "commit": "50f1ab29b4a4de1843835b88d35399f8e382afbc",
   "estado": "proyecto_publicado_y_commit_verificado",
   "nota_commit": "El campo commit identifica el commit principal que contiene las fuentes, datos, resultados, pruebas y documentos. Este archivo de trazabilidad se agregó en un commit administrativo posterior para evitar una referencia circular."
 }
